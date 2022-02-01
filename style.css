@@ -214,7 +214,6 @@ padding: 2rem 0;
 		border-top: 0.3rem solid #ffffff;
 		width: 4rem;
 		margin: auto 10px;
-		
 	}
 	.navbar{
 		z-index: 1000;
@@ -314,7 +313,7 @@ padding: 2rem 0;
 		border-radius: 1rem;
 	}
 	.ourservices{
-		padding: 0;
+		padding: 1px;
 	}
 	.ourservices .content {
 		grid-gap: 1rem;
