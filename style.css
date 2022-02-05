@@ -190,7 +190,7 @@ header ul li a:hover {
 	width: 100%;
 	height: 50vh;
 	background-image: linear-gradient(rgba(0, 0, 0, 0.705), rgba(0, 0, 0, 0.6)),
-		url(/img/back1.jpg);
+		url(img/back1.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -382,7 +382,7 @@ header ul li a:hover {
 	}
 	.thirdcontent {
 		background-image: linear-gradient(rgba(0, 0, 0, 0.705), rgba(0, 0, 0, 0.6)),
-			url(/img/about1.jpg);
+			url(img/about1.jpg);
 		background-position: center;
 		background-size: cover;
 		color: #fff;
